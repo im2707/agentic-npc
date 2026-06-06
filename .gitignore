@@ -1,0 +1,7 @@
+venv/
+memory_store/
+__pycache__/
+.env
+*.pyc
+npc/__pycache__/
+*.egg-info/
